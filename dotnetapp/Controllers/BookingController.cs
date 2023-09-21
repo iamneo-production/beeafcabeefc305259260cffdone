@@ -8,10 +8,6 @@ using System.Threading.Tasks;
 
 namespace dotnetapp.Controllers
 {
-
-
-
-
 public class BookingController : Controller
 {
     private readonly ApplicationDbContext _context;
