@@ -1,14 +1,14 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 // using gym.Data;
-using gymI.Exceptions; 
+using dotnetapp.Exceptions; 
 
-using gymI.Models;
+using dotnetapp.Models;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace gymI.Controllers
+namespace dotnetapp.Controllers
 {
 
 
